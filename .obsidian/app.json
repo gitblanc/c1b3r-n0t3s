@@ -1,4 +1,5 @@
 {
   "useMarkdownLinks": true,
-  "trashOption": "none"
+  "trashOption": "none",
+  "promptDelete": false
 }
