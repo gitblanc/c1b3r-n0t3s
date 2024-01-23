@@ -1,5 +1,6 @@
 {
   "useMarkdownLinks": true,
   "trashOption": "none",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

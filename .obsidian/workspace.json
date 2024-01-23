@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b15e954d22b0f17",
+        "id": "5b4d95ff83f7271a",
         "type": "tabs",
         "children": [
           {
-            "id": "2cce59a38bbac9f3",
+            "id": "a320d43798e8e9c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Import a .asc key 🪡.md",
+                "file": "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "right": {
     "id": "52a92c34b7229791",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Import a .asc key 🪡.md",
+                "file": "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Import a .asc key 🪡.md",
+                "file": "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Import a .asc key 🪡.md"
+                "file": "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cce59a38bbac9f3",
+  "active": "a320d43798e8e9c2",
   "lastOpenFiles": [
-    "notes/Untitled.md",
+    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123132126.png",
+    "notes/Red Team Fundamentals 💂/Teams and Functions of and Engagement 🧑‍⚖️.md",
+    "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
+    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123131625.png",
+    "notes/Red Team Fundamentals 💂/Red team Engagements 🫀.md",
+    "notes/Red Team Fundamentals 💂/Vulnerability Assessment and Penetration Tests Limitations 👹.md",
+    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123125247.png",
+    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123130609.png",
+    "notes/Red Team Fundamentals 💂/img",
+    "notes/Red Team Fundamentals 💂",
+    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123125344.png",
+    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123125319.png",
+    "notes/Privilege Escalation 🧊/What the Shell 🦍.md",
+    "notes/HTTP status codes complete list 💨.md",
+    "notes/Hydra 🐍.md",
+    "notes/Volatility cheatsheet 🦷.md",
+    "notes/Stego 🐅.md",
     "notes/Import a .asc key 🪡.md",
     "HOME.md",
     "notes/img/Pasted image 20230903124356.png",
@@ -156,18 +172,12 @@
     "notes/img/Pasted image 20230903124300.png",
     "notes/img/Pasted image 20230903124224.png",
     "notes/img/Pasted image 20230903124158.png",
-    "notes/img/Pasted image 20230903122835.png",
-    "notes/img/Pasted image 20230903122817.png",
-    "notes/img/Pasted image 20230903122501.png",
-    "notes/img/Pasted image 20230903122428.png",
-    "notes/img/Pasted image 20230903122229.png",
     "notes/Vunerability research 🦑/img",
     "notes/Vunerability research 🦑/Vulnerabilities 101 🪲.md",
     "notes/Vunerability research 🦑/Exploit vulnerabilities 🐊.md",
     "notes/Vunerability research 🦑",
     "notes/Privilege Escalation 🧊/img",
     "notes/Privilege Escalation 🧊/Windows Privilege Escalation ☢️.md",
-    "notes/Privilege Escalation 🧊/What the Shell 🦍.md",
     "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
     "notes/Privilege Escalation 🧊",
     "notes/Network Security 🩻/img",
@@ -183,16 +193,6 @@
     "notes/Metasploit 💦/img",
     "notes/Metasploit 💦/Meterpreter 🎃.md",
     "notes/Metasploit 💦/Introduction 💝.md",
-    "notes/Metasploit 💦/Exploitation 🍕.md",
-    "notes/Metasploit 💦",
-    "notes/Introduction to Web Hacking 😀/img",
-    "notes/Introduction to Web Hacking 😀/Walking an application 🫥.md",
-    "notes/Introduction to Web Hacking 😀/Subdomain Enumeration 👁️‍🗨️.md",
-    "notes/Introduction to Web Hacking 😀/SSRF 🧱.md",
-    "notes/Introduction to Web Hacking 😀/SQL Injection 💽.md",
-    "notes/Introduction to Web Hacking 😀/IDOR 📳.md",
-    "notes/Introduction to Web Hacking 😀/File Inclusion 🗂️.md",
-    "notes/Introduction to Web Hacking 😀/Cross-Site Scripting (XSS) ❎.md",
-    "notes/Introduction to Web Hacking 😀"
+    "notes/Metasploit 💦"
   ]
 }
