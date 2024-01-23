@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4d95ff83f7271a",
+        "id": "90f61477448b7001",
         "type": "tabs",
         "children": [
           {
-            "id": "a320d43798e8e9c2",
+            "id": "4819c977b4f2b4ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
+                "file": "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
+                "file": "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
+                "file": "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md"
+                "file": "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md"
               }
             }
           }
@@ -146,11 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a320d43798e8e9c2",
+  "active": "4819c977b4f2b4ae",
   "lastOpenFiles": [
+    "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123141437.png",
+    "notes/Red Team Engagements 🦸‍♂️/Operations Plan 💡.md",
+    "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
+    "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123140905.png",
+    "notes/Red Team Engagements 🦸‍♂️/Resource Plan 📑.md",
+    "notes/Red Team Engagements 🦸‍♂️/Concept of Operations ⚙️.md",
+    "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123135839.png",
+    "notes/Red Team Engagements 🦸‍♂️/Engagement Documentation 📒.md",
+    "notes/Tools 🛠/ASCII text signature generator 🎴.md",
+    "notes/Tools 🛠/img",
+    "notes/Tools 🛠/Untitled.md",
+    "notes/Tools 🛠",
+    "notes/Red Team Engagements 🦸‍♂️/Rules of Engagement 📘.md",
+    "notes/Red Team Engagements 🦸‍♂️/Campaign Planning 🧮.md",
+    "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123134714.png",
+    "notes/Red Team Engagements 🦸‍♂️/Defining Scopes and Objectives 🎯.md",
+    "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123133713.png",
+    "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
+    "notes/Red Team Engagements 🦸‍♂️/img",
+    "notes/Red Team Engagements 🦸‍♂️",
     "notes/Red Team Fundamentals 💂/img/Pasted image 20240123132126.png",
     "notes/Red Team Fundamentals 💂/Teams and Functions of and Engagement 🧑‍⚖️.md",
-    "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
     "notes/Red Team Fundamentals 💂/img/Pasted image 20240123131625.png",
     "notes/Red Team Fundamentals 💂/Red team Engagements 🫀.md",
     "notes/Red Team Fundamentals 💂/Vulnerability Assessment and Penetration Tests Limitations 👹.md",
@@ -162,16 +181,11 @@
     "notes/Red Team Fundamentals 💂/img/Pasted image 20240123125319.png",
     "notes/Privilege Escalation 🧊/What the Shell 🦍.md",
     "notes/HTTP status codes complete list 💨.md",
-    "notes/Hydra 🐍.md",
-    "notes/Volatility cheatsheet 🦷.md",
+    "notes/Tools 🛠/Hydra 🐍.md",
+    "notes/Tools 🛠/Volatility cheatsheet 🦷.md",
     "notes/Stego 🐅.md",
     "notes/Import a .asc key 🪡.md",
     "HOME.md",
-    "notes/img/Pasted image 20230903124356.png",
-    "notes/img/Pasted image 20230903124330.png",
-    "notes/img/Pasted image 20230903124300.png",
-    "notes/img/Pasted image 20230903124224.png",
-    "notes/img/Pasted image 20230903124158.png",
     "notes/Vunerability research 🦑/img",
     "notes/Vunerability research 🦑/Vulnerabilities 101 🪲.md",
     "notes/Vunerability research 🦑/Exploit vulnerabilities 🐊.md",
@@ -179,20 +193,6 @@
     "notes/Privilege Escalation 🧊/img",
     "notes/Privilege Escalation 🧊/Windows Privilege Escalation ☢️.md",
     "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
-    "notes/Privilege Escalation 🧊",
-    "notes/Network Security 🩻/img",
-    "notes/Network Security 🩻/Protocols & Servers 🌲.md",
-    "notes/Network Security 🩻/Protocols & Servers 2 🛡️.md",
-    "notes/Network Security 🩻/Passive Reconnaissance 🧿.md",
-    "notes/Network Security 🩻/Nmap Post Port Scans 🌼.md",
-    "notes/Network Security 🩻/Nmap Live Host Discovery 🛸.md",
-    "notes/Network Security 🩻/Nmap Basic Port Scans 🌐.md",
-    "notes/Network Security 🩻/Nmap Advanced Port Scans 🦫.md",
-    "notes/Network Security 🩻/Active Reconnaissance ♿.md",
-    "notes/Network Security 🩻",
-    "notes/Metasploit 💦/img",
-    "notes/Metasploit 💦/Meterpreter 🎃.md",
-    "notes/Metasploit 💦/Introduction 💝.md",
-    "notes/Metasploit 💦"
+    "notes/Privilege Escalation 🧊"
   ]
 }
