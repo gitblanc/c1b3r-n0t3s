@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
+                "file": "notes/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4af394d7e72249f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Red Team Threat Intelligence 👨🏾‍💻/TTP Mapping 🧲.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
+                "file": "notes/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
+                "file": "notes/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md"
+                "file": "notes/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md"
               }
             }
           }
@@ -148,9 +160,23 @@
   },
   "active": "4819c977b4f2b4ae",
   "lastOpenFiles": [
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/TTP Mapping 🧲.md",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/TIBER-EU Framework 🔫.md",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/Applying Threat Intel to Red Team.md",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/What is Threat Intelligence 🔦.md",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123222852.png",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123222455.png",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123221407.png",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123221341.png",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123221120.png",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123221022.png",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123220800.png",
+    "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻/img",
+    "notes/Red Team Threat Intelligence 👨🏾‍💻",
     "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123141437.png",
     "notes/Red Team Engagements 🦸‍♂️/Operations Plan 💡.md",
-    "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
     "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123140905.png",
     "notes/Red Team Engagements 🦸‍♂️/Resource Plan 📑.md",
     "notes/Red Team Engagements 🦸‍♂️/Concept of Operations ⚙️.md",
@@ -162,37 +188,22 @@
     "notes/Tools 🛠",
     "notes/Red Team Engagements 🦸‍♂️/Rules of Engagement 📘.md",
     "notes/Red Team Engagements 🦸‍♂️/Campaign Planning 🧮.md",
-    "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123134714.png",
     "notes/Red Team Engagements 🦸‍♂️/Defining Scopes and Objectives 🎯.md",
-    "notes/Red Team Engagements 🦸‍♂️/img/Pasted image 20240123133713.png",
     "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
     "notes/Red Team Engagements 🦸‍♂️/img",
     "notes/Red Team Engagements 🦸‍♂️",
-    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123132126.png",
     "notes/Red Team Fundamentals 💂/Teams and Functions of and Engagement 🧑‍⚖️.md",
-    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123131625.png",
     "notes/Red Team Fundamentals 💂/Red team Engagements 🫀.md",
     "notes/Red Team Fundamentals 💂/Vulnerability Assessment and Penetration Tests Limitations 👹.md",
-    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123125247.png",
-    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123130609.png",
     "notes/Red Team Fundamentals 💂/img",
     "notes/Red Team Fundamentals 💂",
-    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123125344.png",
-    "notes/Red Team Fundamentals 💂/img/Pasted image 20240123125319.png",
     "notes/Privilege Escalation 🧊/What the Shell 🦍.md",
     "notes/HTTP status codes complete list 💨.md",
     "notes/Tools 🛠/Hydra 🐍.md",
     "notes/Tools 🛠/Volatility cheatsheet 🦷.md",
     "notes/Stego 🐅.md",
     "notes/Import a .asc key 🪡.md",
-    "HOME.md",
     "notes/Vunerability research 🦑/img",
-    "notes/Vunerability research 🦑/Vulnerabilities 101 🪲.md",
-    "notes/Vunerability research 🦑/Exploit vulnerabilities 🐊.md",
-    "notes/Vunerability research 🦑",
-    "notes/Privilege Escalation 🧊/img",
-    "notes/Privilege Escalation 🧊/Windows Privilege Escalation ☢️.md",
-    "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
-    "notes/Privilege Escalation 🧊"
+    "notes/Vunerability research 🦑"
   ]
 }
