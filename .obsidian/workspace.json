@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Team OPSEC 🚷/Practical Example 🧪.md",
+                "file": "notes/Red Teaming 🎈/Intro to C2 ✴️/Advanced C2 Setups 🌠.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Team OPSEC 🚷/Practical Example 🧪.md",
+                "file": "notes/Red Teaming 🎈/Intro to C2 ✴️/Advanced C2 Setups 🌠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Team OPSEC 🚷/Practical Example 🧪.md",
+                "file": "notes/Red Teaming 🎈/Intro to C2 ✴️/Advanced C2 Setups 🌠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Team OPSEC 🚷/Practical Example 🧪.md"
+                "file": "notes/Red Teaming 🎈/Intro to C2 ✴️/Advanced C2 Setups 🌠.md"
               }
             }
           }
@@ -148,51 +148,51 @@
   },
   "active": "4819c977b4f2b4ae",
   "lastOpenFiles": [
-    "notes/Red Team OPSEC 🚷/img/Pasted image 20240124113558.png",
-    "notes/Red Team OPSEC 🚷/Countermeasures 🧾.md",
-    "notes/Red Team OPSEC 🚷/Practical Example 🧪.md",
-    "notes/Red Team OPSEC 🚷/img/Pasted image 20240124113045.png",
-    "notes/Red Team OPSEC 🚷/Risk Assesment 🪃.md",
-    "notes/Red Team OPSEC 🚷/img/Pasted image 20240124112504.png",
-    "notes/Red Team OPSEC 🚷/Vulnerability Analysis 🧩.md",
-    "notes/Red Team OPSEC 🚷/img/Pasted image 20240124112011.png",
-    "notes/Red Team OPSEC 🚷/Threat Analysis 🚸.md",
-    "notes/Red Team OPSEC 🚷/img/Pasted image 20240124111633.png",
-    "notes/Red Team OPSEC 🚷/Introduction 🅰️.md",
-    "notes/Red Team OPSEC 🚷/img/Pasted image 20240124110450.png",
-    "notes/Red Team OPSEC 🚷/img/Pasted image 20240124110437.png",
-    "notes/Red Team OPSEC 🚷/img/Pasted image 20240124110419.png",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md",
-    "notes/Red Team OPSEC 🚷/img",
-    "notes/Red Team OPSEC 🚷",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/TTP Mapping 🧲.md",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/TIBER-EU Framework 🔫.md",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/Applying Threat Intel to Red Team.md",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/What is Threat Intelligence 🔦.md",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123222852.png",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123222455.png",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/img/Pasted image 20240123221407.png",
-    "notes/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻/img",
-    "notes/Red Team Threat Intelligence 👨🏾‍💻",
-    "notes/Red Team Engagements 🦸‍♂️/Operations Plan 💡.md",
-    "notes/Red Team Engagements 🦸‍♂️/Resource Plan 📑.md",
-    "notes/Red Team Engagements 🦸‍♂️/Concept of Operations ⚙️.md",
-    "notes/Red Team Engagements 🦸‍♂️/Engagement Documentation 📒.md",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125191858.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125191700.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125191448.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125191424.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/Command, Control and Conquer 🎥.md",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/Advanced C2 Setups 🌠.md",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125183850.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125183834.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125183817.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125183800.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125183744.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125183730.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img/Pasted image 20240125183716.png",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/C2 Operations Basics 📲.md",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/Setting up a C2 Framework 🕌.md",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/Common C2 Frameworks 🏕.md",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/Command and Control Framework Structure 📐.md",
+    "notes/Red Teaming 🎈/Red Team OPSEC 🚷/Practical Example 🧪.md",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️/img",
+    "notes/Red Teaming 🎈",
+    "notes/Red Teaming 🎈/Intro to C2 ✴️",
+    "notes/Red Teaming 🎈/Red Team OPSEC 🚷/Countermeasures 🧾.md",
+    "notes/Red Teaming 🎈/Red Team OPSEC 🚷/Risk Assesment 🪃.md",
+    "notes/Red Teaming 🎈/Red Team OPSEC 🚷/Vulnerability Analysis 🧩.md",
+    "notes/Red Teaming 🎈/Red Team OPSEC 🚷/Threat Analysis 🚸.md",
+    "notes/Red Teaming 🎈/Red Team OPSEC 🚷/Introduction 🅰️.md",
+    "notes/Red Teaming 🎈/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md",
+    "notes/Red Teaming 🎈/Red Team OPSEC 🚷/img",
+    "notes/Red Teaming 🎈/Red Team OPSEC 🚷",
+    "notes/Red Teaming 🎈/Red Team Threat Intelligence 👨🏾‍💻/TTP Mapping 🧲.md",
+    "notes/Red Teaming 🎈/Red Team Threat Intelligence 👨🏾‍💻/TIBER-EU Framework 🔫.md",
+    "notes/Red Teaming 🎈/Red Team Threat Intelligence 👨🏾‍💻/Applying Threat Intel to Red Team.md",
+    "notes/Red Teaming 🎈/Red Team Threat Intelligence 👨🏾‍💻/What is Threat Intelligence 🔦.md",
+    "notes/Red Teaming 🎈/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
+    "notes/Red Teaming 🎈/Red Team Threat Intelligence 👨🏾‍💻/img",
+    "notes/Red Teaming 🎈/Red Team Threat Intelligence 👨🏾‍💻",
+    "notes/Red Teaming 🎈/Red Team Engagements 🦸‍♂️/Operations Plan 💡.md",
+    "notes/Red Teaming 🎈/Red Team Engagements 🦸‍♂️/Resource Plan 📑.md",
+    "notes/Red Teaming 🎈/Red Team Engagements 🦸‍♂️/Concept of Operations ⚙️.md",
+    "notes/Red Teaming 🎈/Red Team Engagements 🦸‍♂️/Engagement Documentation 📒.md",
     "notes/Tools 🛠/ASCII text signature generator 🎴.md",
     "notes/Tools 🛠/img",
     "notes/Tools 🛠/Untitled.md",
     "notes/Tools 🛠",
-    "notes/Red Team Engagements 🦸‍♂️/Rules of Engagement 📘.md",
-    "notes/Red Team Engagements 🦸‍♂️/Campaign Planning 🧮.md",
-    "notes/Red Team Engagements 🦸‍♂️/Defining Scopes and Objectives 🎯.md",
-    "notes/Red Team Fundamentals 💂/Engagement Structure 👨‍🔧.md",
-    "notes/Red Team Engagements 🦸‍♂️/img",
-    "notes/Red Team Engagements 🦸‍♂️",
-    "notes/Red Team Fundamentals 💂/Teams and Functions of and Engagement 🧑‍⚖️.md",
-    "notes/Red Team Fundamentals 💂/Red team Engagements 🫀.md",
-    "notes/Red Team Fundamentals 💂/Vulnerability Assessment and Penetration Tests Limitations 👹.md",
-    "notes/Red Team Fundamentals 💂/img",
-    "notes/Red Team Fundamentals 💂"
+    "notes/Red Teaming 🎈/Red Team Engagements 🦸‍♂️/Rules of Engagement 📘.md",
+    "notes/Red Teaming 🎈/Red Team Engagements 🦸‍♂️/img"
   ]
 }
