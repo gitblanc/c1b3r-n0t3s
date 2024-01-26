@@ -2,7 +2,7 @@
 
 While trying to digest the various components of a C2 framework, it may be intimidating. However, they don’t have to be. In order to better understand what a C2 framework is at its most basic level, think of a Netcat listener (the C2 server) that is capable of handling many reverse shells calling back at once (C2 Agents). It’s a server but for reverse shells. Unlike Netcat, almost all C2 frameworks require a special payload generator. This is usually a feature that is built into the framework itself. For example, Metasploit is a C2 Framework that has its own payload generator, MSFVenom.
 
-![](./img/Pasted%20image%2020240125172946.png)
+![](Pasted%20image%2020240125172946.png)
 
 _The Diagram above depicts three compromised clients calling back to a C2 Server._
 
@@ -14,7 +14,7 @@ So what exactly makes C2 frameworks better than a normal Netcat listener? It see
 
 In order to understand a Command and Control framework, we must first start by understanding the various components of a C2 server. Let’s start with the most essential component - The C2 Server itself. The C2 Server serves as a hub for agents to call back to. Agents will periodically reach out to the C2 server and wait for the operator’s commands.
 
-![](./img/Pasted%20image%2020240125173017.png)
+![](Pasted%20image%2020240125173017.png)
 
 _This screenshot depicts a basic C2 server diagram._
 
@@ -76,7 +76,7 @@ Much like a regular Reverse Shell, there are two primary types of payloads that 
 
 Stageless Payloads are the simplest of the two; they contain the full C2 agent and will call back to the C2 server and begin beaconing immediately. You can refer to the diagram below to gain a better understanding of how Stageless payloads operate.
 
-![](./img/Pasted%20image%2020240125173049.png)
+![](Pasted%20image%2020240125173049.png)
 
 _his screenshot depicts a stageless payload calling back to a C2 server_
 
@@ -90,7 +90,7 @@ The steps for establishing C2 beaconing with a Stageless payload are as follows:
 
 Staged payloads require a callback to the C2 server to download additional parts of the C2 agent. This is commonly referred to as a “Dropper” because it is “Dropped” onto the victim machine to download the second stage of our staged payload. This is a preferred method over stageless payloads because a small amount of code needs to be written to retrieve the additional parts of the C2 agent from the C2 server. It also makes it easier to obfuscate code to bypass Anti-Virus programs.
 
-![](./img/Pasted%20image%2020240125173114.png)
+![](Pasted%20image%2020240125173114.png)
 
 _This diagram depicts a dropper calling back to a C2 server for its second stage._
 
@@ -127,7 +127,7 @@ Post Exploitation modules are simply modules that deal with anything after the i
 
 One of the last major components of a C2 Framework is its pivoting modules, making it easier to access restricted network segments within the C2 Framework. If you have Administrative Access on a system, you may be able to open up an “SMB Beacon”, which can enable a machine to act as a proxy via the SMB protocol. This may allow machines in a restricted network segment to communicate with your C2 server.
 
-![](./img/Pasted%20image%2020240125173147.png)
+![](Pasted%20image%2020240125173147.png)
 
 _This diagram depicts multiple victims with an SMB pivot calling back to a C2 server._
 
@@ -146,7 +146,7 @@ One important obstacle that all Red Teamers must overcome is placing infrastruct
 
 Domain Fronting utilizes a known, good host (for example) Cloudflare. Cloudflare runs a business that provides enhanced metrics on HTTP connection details as well as caching HTTP connection requests to save bandwidth.  Red Teamers can abuse this to make it appear that a workstation or server is communicating with a known, trusted IP Address. Geolocation results will show wherever the nearest Cloudflare server is, and the IP Address will show as ownership to Cloudflare.
 
-![](./img/Pasted%20image%2020240125173234.png)
+![](Pasted%20image%2020240125173234.png)
 
 _This diagram shows an example HTTP beacon from a compromised device._
 
@@ -163,7 +163,7 @@ The diagram above depicts how Domain Fronting works:
 
 The next technique goes by several names by several different products, "NGINX Reverse Proxy", "Apache Mod_Proxy/Mod_Rewrite",  "Malleable HTTP C2 Profiles", and many others. However, they are all more or less the same. All of the Proxy features more or less allow a user to control specific elements of the incoming HTTP request. Let's say an incoming connection request has an "X-C2-Server" header; we could explicitly extract this header using the specific technology that is at your disposal (Reverse Proxy, Mod_Proxy/Rewrite, Malleable C2 Profile, etc.) and ensure that your C2 server responds with C2 based responses. Whereas if a normal user queried the HTTP Server, they might see a generic webpage. This is all dependent on your configuration.
 
-![](./img/Pasted%20image%2020240125173312.png)
+![](Pasted%20image%2020240125173312.png)
 
 _A Compromised Device and Security Analyst reach out to a C2 server, only the Compromised device gets a C2 Beacon back - the Analyst gets Cloudflare's website back._
 

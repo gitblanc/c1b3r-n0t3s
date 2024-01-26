@@ -40,7 +40,7 @@ Your fellow Red Team Operators will use the Shared Password to access your Armi
 **Armitage -**  
 This is the file you will be using to connect to the Armitage Teamserver. Upon executing the binary, a new prompt will open up, displaying connection information and your username (this should be treated as a nickname, not a username for authentication) and password.
 
-![](./img/Pasted%20image%2020240125180412.png)
+![](Pasted%20image%2020240125180412.png)
 
 ### Preparing our Environment
 
@@ -76,14 +76,14 @@ cd /opt/armitage/release/unix && ./armitage
 
 When operating a C2 Framework, you never want to expose the management interface publicly; You should always listen on a local interface, never a public-facing one. This complicates access for fellow operators. Fortunately, there is an easy solution for this. For operators to gain access to the server, you should create a new user account for them and enable SSH access on the server, and they will be able to SSH port forward TCP/55553.  Armitage **explicitly denies** users listening on 127.0.0.1; this is because it is essentially a shared Metasploit server with a "Deconfliction Server" that when multiple users are connecting to the server, you're not seeing everything that your other users are seeing. With Armitage, you must listen on your tun0/eth0 IP Address.
 
-![](./img/Pasted%20image%2020240125180610.png)
+![](Pasted%20image%2020240125180610.png)
 
 After clicking "Connect", you will be prompted to enter a nickname. You can set this to whatever you like; only your fellow Red Team Operators will see it.
 
-![](./img/Pasted%20image%2020240125180626.png)
+![](Pasted%20image%2020240125180626.png)
 
 After a moment or two, the Armitage UI should open up, until we start interacting with remote systems; it will look bare. In the next upcoming task, we will be exploiting a vulnerable virtual machine to get you more accustomed to the Armitage UI and how it can be used.
 
-![](./img/Pasted%20image%2020240125180642.png)
+![](Pasted%20image%2020240125180642.png)
 
 Now that Armitage is set up and working correctly, in the next task, we will learn more about securely accessing Armitage (as described above), creating listeners, various listener types, generating payloads, and much more!

@@ -57,19 +57,19 @@ msf6 >
 
 [Armitage](https://web.archive.org/web/20211006153158/http://www.fastandeasyhacking.com/) is an extension of the Metasploit Framework - it adds a Graphical user interface and is written in Java, and is incredibly similar to Cobalt Strike. This is because they were both developed by Raphael Mudge. Armitage offers an easy way to enumerate and visualize all of your targets. Aside from looking a lot like Cobalt Strike, it even offers some unique features. One of the most popular can be found in the “Attacks” menu; This feature is known as the Hail Mary attack, which attempts to run all exploits for the services running on a specific workstation. Armitage really is “Fast and Easy Hacking”.
 
-![](./img/Pasted%20image%2020240125175600.png)
+![](Pasted%20image%2020240125175600.png)
 
 **Powershell Empire/Starkiller**
 
 [Powershell Empire](https://bc-security.gitbook.io/empire-wiki/) and [Starkiller](https://github.com/BC-SECURITY/Starkiller) is another incredibly popular C2 originally created by Harmjoy, Sixdub, and Enigma0x3 from Veris Group. Currently, the project has been discontinued and has been picked up by the BC Security team (Cx01N, Hubbl3, and _Vinnybod). Empire features agents written in various languages compatible with multiple platforms, making it an incredibly versatile C2. For more information on Empire, we recommend you take a look at the [Powershell Empire](https://tryhackme.com/room/rppsempire) room.
 
-![](./img/Pasted%20image%2020240125175619.png)
+![](Pasted%20image%2020240125175619.png)
 
 **Covenant**
 
 [Covenant](https://github.com/cobbr/Covenant) by Ryan Cobb is the last free C2 Framework we will be covering - By far, it is one of the most unique C2 Frameworks being written in C#. Unlike Metasploit/Armitage, It’s primarily used for post-exploitation and lateral movement with HTTP, HTTPS, and SMB listeners with highly customizable agents.
 
-![](./img/Pasted%20image%2020240125175638.png)
+![](Pasted%20image%2020240125175638.png)
 
 **Sliver**
 
@@ -81,13 +81,13 @@ msf6 >
 
 [Cobalt Strike](https://www.cobaltstrike.com/) by Help Systems (Formerly created by Raphael Mudge) is arguably one of the most famous Command and Control frameworks next to Metasploit. Much like Artimage, it is written in Java and designed to be as flexible as possible. For more information, see Cobalt Strike’s [Video Training Page](https://www.youtube.com/playlist?list=PLcjpg2ik7YT6H5l9Jx-1ooRYpfvznAInJ). It offers additional insight into both Red Team Operations and the Framework by Raphael Mudge himself.
 
-![](./img/Pasted%20image%2020240125175716.png)
+![](Pasted%20image%2020240125175716.png)
 
 **Brute Ratel**
 
 [Brute Ratel](https://bruteratel.com/) by Chetan Nayak or Paranoid Ninja is a Command and Control framework marketed as a “Customizable Command and Control Center” or “C4” framework that provides a true adversary simulation-like experience with being a unique C2 framework. For more information about the Framework, the author has provided a [Video Training Page](https://bruteratel.com/tabs/tutorials/) that demonstrates many of the capabilities within the framework.
 
-![](./img/Pasted%20image%2020240125175737.png)
+![](Pasted%20image%2020240125175737.png)
 
 ### Other C2 Frameworks
 

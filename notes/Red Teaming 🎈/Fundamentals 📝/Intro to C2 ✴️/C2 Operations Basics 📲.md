@@ -6,7 +6,7 @@ Now that we have a general idea of how to set up a C2 Server, we will go over so
 
 We briefly touched on this in the last section; You should never have your C2 management interface directly accessible. This is primarily for you to improve operational security. It can be incredibly easy to fingerprint C2 servers. For example, in versions prior to 3.13, Cobalt Strike C2 servers were able to be identified by an extra space (\x20) at the end of the HTTP Response. Using this tactic, many Blue Teamers could fingerprint all of the Cobalt Strike C2 servers publicly accessible. For more information on fingerprinting and identifying Cobalt Strike C2 Servers, check out this posted on the [Recorded Future blog](https://www.recordedfuture.com/cobalt-strike-servers/).
 
-![](./img/Pasted%20image%2020240125182210.png)
+![](Pasted%20image%2020240125182210.png)
 
 The point in mentioning this is that you want to reduce your operational security risk as much as possible. If this means not having the management interface for your C2 server publicly accessible, then, by all means, you should do it.
 
@@ -14,11 +14,11 @@ The point in mentioning this is that you want to reduce your operational securit
 
 This section will be focusing on how to securely access your C2 server by SSH port-forwarding; if you have port-forwarded with SSH before, feel free to skip over this section, you may not learn anything new. For those unfamiliar, SSH port-forwarding allows us to either host resources on a remote machine by forwarding a local port to the remote server, or allows us to access local resources on the remote machine we are connecting to.  In some circumstances, this may be for circumventing Firewalls.
 
-![](./img/Pasted%20image%2020240125182232.png)
+![](Pasted%20image%2020240125182232.png)
 
 Or, in our instance, this could be done for operational security reasons.
 
-![](./img/Pasted%20image%2020240125182250.png)
+![](Pasted%20image%2020240125182250.png)
 
 Now that we have a better understanding of why we want to SSH port forward, let's go over the how.
 
@@ -38,15 +38,15 @@ We highly recommend putting firewall rules in place for C2 servers that must lis
 
 Next, we're going to move onto a topic that all C2 servers have - this being listener creation. To stay on topic, we will demonstrate how to set up a basic listener with Armitage then explore some of the other theoretical listeners you may encounter in various other C2 Frameworks. Let's create a basic Meterpreter Listener running on TCP/31337. To start, click on the Armitage dropdown and go over to the "Listeners" section; you should see three options, Bind, Reverse, and set LHOST. Bind refers to Bind Shells; you must connect to these hosts. Reverse refers to standard Reverse Shells; this is the option we will be using.
 
-![](./img/Pasted%20image%2020240125182420.png)
+![](Pasted%20image%2020240125182420.png)
 
 After clicking "Reverse," a new menu will open up, prompting you to configure some basic details about the listener, specifically what port you want to listen on and what listener type you would like to select. There are two options you can choose from, "Shell" or "Meterpreter". Shell refers to a standard netcat-style reverse shell, and Meterpreter is the standard Meterpreter reverse shell.
 
-![](./img/Pasted%20image%2020240125182437.png)
+![](Pasted%20image%2020240125182437.png)
 
 After pressing enter, a new pane will open up, confirming that your listener has been created. This should look like the standard Metasploit exploit/multi/handler module.
 
-![](./img/Pasted%20image%2020240125182450.png)
+![](Pasted%20image%2020240125182450.png)
 
 After setting up a listener, you can generate a standard windows/meterpreter/reverse_tcp reverse shell using MSFvenom and set the LHOST to the Armitage server to receive callbacks to our Armitage server. 
 
@@ -64,7 +64,7 @@ Saved as: shell.exe
 
 After generating the windows/meterpreter/reverse_tcp using MSFVenom, we can transfer the payload to a target machine and execute it. After a moment or two, you should receive a callback from the machine.
 
-![](./img/Pasted%20image%2020240125182542.png)
+![](Pasted%20image%2020240125182542.png)
 
 # Listener Type
 
