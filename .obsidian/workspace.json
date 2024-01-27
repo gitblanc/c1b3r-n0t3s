@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90f61477448b7001",
+        "id": "b435c3365b187ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "4819c977b4f2b4ae",
+            "id": "5b139edd92a81c29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,27 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4819c977b4f2b4ae",
+  "active": "5b139edd92a81c29",
   "lastOpenFiles": [
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127115638.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127115618.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Windows Scripting Host (WSH) 🪤.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Delivery Techniques 🧼.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127181113.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127181050.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127181028.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Command and Control (C2 or C&C) 🧬.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127180734.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Powershell (PSH) 🎁.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Visual Basic for Application (VBA) 🔮.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172132.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172108.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172052.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172034.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172007.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127171940.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Windows Scripting Host (WSH) 🪤.md",
     "notes/Windows things 🔵/Wscripts (.vba, .vbe or .txt scripts) 💷.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127114002.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127113924.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127113836.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Introduction 🧿.md",
     "notes/Windows things 🔵/Windows remote desktop 🖥.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127112927.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127112904.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Maltego 🦔.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126110009.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126105950.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126105932.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126105910.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Recon-ng 🦥.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Specialized Search Engines 🦃.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Advanced Searching 🐢.md",
@@ -189,10 +192,6 @@
     "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Countermeasures 🧾.md",
     "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Risk Assesment 🪃.md",
     "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Vulnerability Analysis 🧩.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Threat Analysis 🚸.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Introduction 🅰️.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/img",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/TTP Mapping 🧲.md"
+    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/img"
   ]
 }

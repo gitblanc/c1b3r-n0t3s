@@ -122,3 +122,20 @@ Microsoft Windows [Version 10.0.14393]
 
 C:\app>
 ````
+
+In the Metasploit framework, **we can inject our current process into another process on the victim machine using migrate**. In our case, we need to migrate our current process, which is the MS word document, into another process to make the connection stable even if the MS word document is closed. The easiest way to do this is by using migrate post-module as follow,
+
+````shell
+meterpreter > run post/windows/manage/migrate 
+
+[*] Running module against DESKTOP-1AU6NT4
+[*] Current server process: svchost.exe (3280)
+[*] Spawning notepad.exe process to migrate into
+[*] Spoofing PPID 0
+[*] Migrating into 4960
+[+] Successfully migrated into process 4960
+````
+
+In this task, the goal is to generate a reverse shell payload of your choice and send it through the web application. Once the web application runs your payload, you should receive a connect back. Answer the question below and prove your access by finding the flag once you receive a reverse shell.
+
+For reference, you can use the MSFVenom Cheat Sheet on this [website](https://web.archive.org/web/20220607215637/https://thedarksource.com/msfvenom-cheat-sheet-create-metasploit-payloads/).
