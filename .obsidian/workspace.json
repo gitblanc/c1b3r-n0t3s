@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Maltego 🦔.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Maltego 🦔.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Maltego 🦔.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Maltego 🦔.md"
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md"
               }
             }
           }
@@ -148,21 +148,28 @@
   },
   "active": "4819c977b4f2b4ae",
   "lastOpenFiles": [
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127115638.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127115618.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Windows Scripting Host (WSH) 🪤.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
+    "notes/Windows things 🔵/Wscripts (.vba, .vbe or .txt scripts) 💷.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127114002.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127113924.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127113836.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Introduction 🧿.md",
+    "notes/Windows things 🔵/Windows remote desktop 🖥.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127112927.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127112904.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Maltego 🦔.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126110009.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126105950.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126105932.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126105910.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126105855.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240126105838.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Recon-ng 🦥.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Maltego 🦔.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Specialized Search Engines 🦃.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240125232040.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240125232023.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240125232007.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240125231935.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Advanced Searching 🐢.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img/Pasted image 20240125230433.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Built-in Tools 🐔.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Taxonomy of Reconnaissance 🐙.md",
     "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/Advanced C2 Setups 🌠.md",
@@ -186,13 +193,6 @@
     "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Introduction 🅰️.md",
     "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/Other Red Team Applications of CTI 🔎.md",
     "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/img",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/TTP Mapping 🧲.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/TIBER-EU Framework 🔫.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/Applying Threat Intel to Red Team.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/What is Threat Intelligence 🔦.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Engagements 🦸‍♂️/Mission Plan 🚀.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/img",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Engagements 🦸‍♂️/Operations Plan 💡.md"
+    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team Threat Intelligence 👨🏾‍💻/TTP Mapping 🧲.md"
   ]
 }
