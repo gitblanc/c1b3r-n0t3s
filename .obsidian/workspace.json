@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md"
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md"
               }
             }
           }
@@ -148,6 +148,17 @@
   },
   "active": "5b139edd92a81c29",
   "lastOpenFiles": [
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Online Password Attacks 🏯.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Password Spray Attack 🎢.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/img/Pasted image 20240127210636.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Password Profiling 🚔.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Password Attacking Techniques 🚗.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/img/Pasted image 20240127184248.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Introduction 🗽.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/img",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Delivery Techniques 🧼.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127181113.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127181050.png",
@@ -160,9 +171,6 @@
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172108.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172052.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172034.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172007.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127171940.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Windows Scripting Host (WSH) 🪤.md",
     "notes/Windows things 🔵/Wscripts (.vba, .vbe or .txt scripts) 💷.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Introduction 🧿.md",
@@ -183,15 +191,7 @@
     "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/Command, Control and Conquer 🎥.md",
     "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/C2 Operations Basics 📲.md",
     "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/Setting up a C2 Framework 🕌.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/Common C2 Frameworks 🏕.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/Command and Control Framework Structure 📐.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Practical Example 🧪.md",
     "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/img",
-    "notes/Red Teaming 🎈",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Countermeasures 🧾.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Risk Assesment 🪃.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/Vulnerability Analysis 🧩.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Red Team OPSEC 🚷/img"
+    "notes/Red Teaming 🎈"
   ]
 }
