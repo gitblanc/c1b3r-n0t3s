@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md"
+                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md"
               }
             }
           }
@@ -148,29 +148,39 @@
   },
   "active": "5b139edd92a81c29",
   "lastOpenFiles": [
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Microsoft Office in Phishing 🐾.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Choosing a phishing domain 🦥.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128145536.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Droppers 🐦‍⬛.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using GoPhish 🪐.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143355.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143335.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143317.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143257.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143226.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143117.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143050.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143028.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143019.png",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Phishing Infrastructure 🪻.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Writing Convincing Phishing Emails 🦫.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Intro to Phishing Attacks 🦜.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟",
     "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Online Password Attacks 🏯.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Password Spray Attack 🎢.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/img/Pasted image 20240127210636.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Offline Attacks 🏎.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Password Profiling 🚔.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Password Attacking Techniques 🚗.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/img/Pasted image 20240127184248.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/Introduction 🗽.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/An HTML Application (HTA) 💉.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/img",
     "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Delivery Techniques 🧼.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127181113.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127181050.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127181028.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Command and Control (C2 or C&C) 🧬.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127180734.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Powershell (PSH) 🎁.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Visual Basic for Application (VBA) 🔮.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172132.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172108.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172052.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img/Pasted image 20240127172034.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Windows Scripting Host (WSH) 🪤.md",
     "notes/Windows things 🔵/Wscripts (.vba, .vbe or .txt scripts) 💷.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Introduction 🧿.md",
@@ -180,18 +190,9 @@
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Recon-ng 🦥.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Specialized Search Engines 🦃.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Advanced Searching 🐢.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Built-in Tools 🐔.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Taxonomy of Reconnaissance 🐙.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/Advanced C2 Setups 🌠.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦",
     "notes/Red Teaming 🎈/Initial Access ✂️",
-    "notes/Red Teaming 🎈/Fundamentals 📝",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/Command, Control and Conquer 🎥.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/C2 Operations Basics 📲.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/Setting up a C2 Framework 🕌.md",
-    "notes/Red Teaming 🎈/Fundamentals 📝/Intro to C2 ✴️/img",
-    "notes/Red Teaming 🎈"
+    "notes/Red Teaming 🎈/Fundamentals 📝"
   ]
 }
