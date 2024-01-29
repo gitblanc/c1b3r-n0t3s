@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b435c3365b187ed9",
+        "id": "0a8f5d24b777d3dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5b139edd92a81c29",
+            "id": "c0e376647dedcd81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md"
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md"
               }
             }
           }
@@ -146,23 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b139edd92a81c29",
+  "active": "c0e376647dedcd81",
   "lastOpenFiles": [
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Microsoft Office in Phishing 🐾.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130004246.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130004222.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130004030.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130003946.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130000759.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130000523.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Users and Groups Management 👥.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129202237.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129202130.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Active Directory (AD) Environment 📀.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129201319.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129201300.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129201245.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Network Infraestructure 🧠.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻",
+    "notes/Red Teaming 🎈/Post Compromise 🤬",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Microsoft Office in Phishing 🐾.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Choosing a phishing domain 🦥.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128145536.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Droppers 🐦‍⬛.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using GoPhish 🪐.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143355.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143335.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143317.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143257.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143226.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143117.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143050.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143028.png",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img/Pasted image 20240128143019.png",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Phishing Infrastructure 🪻.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Writing Convincing Phishing Emails 🦫.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Intro to Phishing Attacks 🦜.md",
@@ -183,16 +191,8 @@
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Visual Basic for Application (VBA) 🔮.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Windows Scripting Host (WSH) 🪤.md",
     "notes/Windows things 🔵/Wscripts (.vba, .vbe or .txt scripts) 💷.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Introduction 🧿.md",
-    "notes/Windows things 🔵/Windows remote desktop 🖥.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Maltego 🦔.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Recon-ng 🦥.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/Specialized Search Engines 🦃.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦",
-    "notes/Red Teaming 🎈/Initial Access ✂️",
-    "notes/Red Teaming 🎈/Fundamentals 📝"
+    "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img"
   ]
 }
