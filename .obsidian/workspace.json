@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Applications and services 💥.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Applications and services 💥.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Applications and services 💥.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md"
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Applications and services 💥.md"
               }
             }
           }
@@ -148,20 +148,22 @@
   },
   "active": "c0e376647dedcd81",
   "lastOpenFiles": [
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240131122158.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Network Security Solutions 🧑🏻‍⚖️.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Applications and services 💥.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240131120129.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240131120100.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240131120039.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240131120017.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240131114741.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130004246.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130004222.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130004030.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130003946.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130000759.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240130000523.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Users and Groups Management 👥.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129202237.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129202130.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Active Directory (AD) Environment 📀.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129201319.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129201300.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img/Pasted image 20240129201245.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Network Infraestructure 🧠.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻",
@@ -189,8 +191,6 @@
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Command and Control (C2 or C&C) 🧬.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Powershell (PSH) 🎁.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Visual Basic for Application (VBA) 🔮.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/Windows Scripting Host (WSH) 🪤.md",
-    "notes/Windows things 🔵/Wscripts (.vba, .vbe or .txt scripts) 💷.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️/img",
     "notes/Red Teaming 🎈/Initial Access ✂️/Weaponization ⚔️",
     "notes/Red Teaming 🎈/Initial Access ✂️/Red Team Recon 🐦/img"

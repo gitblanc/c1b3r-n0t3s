@@ -190,7 +190,7 @@ Sometimes, the list of available event logs gives you an insight into what appli
 
 In corporate networks, log agent software is installed on clients to collect and gather logs from different sensors to analyze and monitor activities within the network. We will discuss them more in the Network Security Solution task.
 
-## System Monitor (Sysmon)
+# System Monitor (Sysmon)
 
 ![](./img/Pasted%20image%2020240130004030.png)
 
@@ -243,7 +243,7 @@ C:\tools\Sysmon\sysmonconfig.xml:
 
 For more detail about the Windows sysmon tool and how to utilize it within endpoints, we suggest trying the TryHackMe room: [Sysmon](https://tryhackme.com/room/sysmon).
 
-## Host-based Intrusion Detection/Prevention System (HIDS/HIPS)
+# Host-based Intrusion Detection/Prevention System (HIDS/HIPS)
 
 ![](./img/Pasted%20image%2020240130004222.png)
 
@@ -258,7 +258,7 @@ There is also a network-based IDS/IPS, which we will be covering in the next tas
 
   
 
-## Endpoint Detection and Response (EDR)
+# Endpoint Detection and Response (EDR)
 
 ![](./img/Pasted%20image%2020240130004246.png)
 
