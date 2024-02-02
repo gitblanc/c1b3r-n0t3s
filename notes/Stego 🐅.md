@@ -6,3 +6,6 @@
 - Use tool binwalk to search binary images for embedded files and executable code: `binwalk image.png`
 	- To extract the file: `binwalk -e image.png`
 - Use command: `steghide extract -sf image.png`
+- [Steganographic Decoder](https://futureboy.us/stegano/decinput.html)
+	- Upload the file to it
+

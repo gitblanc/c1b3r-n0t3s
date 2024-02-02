@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/7. Tools for the trade 🏎.md",
+                "file": "notes/Stego 🐅.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/7. Tools for the trade 🏎.md",
+                "file": "notes/Stego 🐅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/7. Tools for the trade 🏎.md",
+                "file": "notes/Stego 🐅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/7. Tools for the trade 🏎.md"
+                "file": "notes/Stego 🐅.md"
               }
             }
           }
@@ -148,19 +148,26 @@
   },
   "active": "12d7591257b01abb",
   "lastOpenFiles": [
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/6. Abusing vulnerable software 🎭.md",
+    "notes/Security through obscurity 🍭.md",
+    "notes/Stego 🐅.md",
+    "notes/Spectrograms 🥠.md",
+    "notes/img/Pasted image 20240203003858.png",
+    "notes/img/Pasted image 20240203003809.png",
+    "notes/Translation and Shifting 🥭.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/1. Tampering with Unprivileged Accounts 🥙.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240202130016.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240202130000.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240202125840.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240202125818.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/7. Tools for the trade 🏎.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/6. Abusing vulnerable software 🎭.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202123009.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202122919.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/5. Abusing dangerous privileges 🎪.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115407.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115333.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115313.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115255.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115236.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115219.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115125.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115055.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/4. Windows Services 🎺.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/3. Other Quick Wins 🚑.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/2. Harvesting Passwords from Usual Spots 🎸.md",
@@ -186,13 +193,6 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻",
     "notes/Red Teaming 🎈/Post Compromise 🤬",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Microsoft Office in Phishing 🐾.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Choosing a phishing domain 🦥.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Droppers 🐦‍⬛.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using GoPhish 🪐.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Phishing Infrastructure 🪻.md",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Password Attacks 📧/img"
+    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img"
   ]
 }
