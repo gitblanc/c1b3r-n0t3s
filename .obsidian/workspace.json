@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bad1fe40865dcb67",
+        "id": "a20070e69c2b8406",
         "type": "tabs",
         "children": [
           {
-            "id": "12d7591257b01abb",
+            "id": "ee49743cb39c9878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Stego 🐅.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/5. Logon Triggered Persistence 🚇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb5e9d9bd409a121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Stego 🐅.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Stego 🐅.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Stego 🐅.md"
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md"
               }
             }
           }
@@ -146,28 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12d7591257b01abb",
+  "active": "fb5e9d9bd409a121",
   "lastOpenFiles": [
-    "notes/Security through obscurity 🍭.md",
-    "notes/Stego 🐅.md",
-    "notes/Spectrograms 🥠.md",
-    "notes/img/Pasted image 20240203003858.png",
-    "notes/img/Pasted image 20240203003809.png",
-    "notes/Translation and Shifting 🥭.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/5. Logon Triggered Persistence 🚇.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120310.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120212.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120127.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120050.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203115959.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203115037.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/3. Abusing Services 🚝.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/1. Tampering with Unprivileged Accounts 🥙.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240202130016.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240202130000.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240202125840.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240202125818.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/2. Backdooring Files 🏐.md",
+    "README.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203110154.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203110136.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203110118.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203110026.png",
+    "notes/Translation and Shifting (Format encoding) 🥭.md",
+    "notes/Stego 🐅.md",
+    "notes/Security through obscurity 🍭.md",
+    "notes/Spectrograms 🥠.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/7. Tools for the trade 🏎.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/6. Abusing vulnerable software 🎭.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202123009.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202122919.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/5. Abusing dangerous privileges 🎪.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115407.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img/Pasted image 20240202115333.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/4. Windows Services 🎺.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/3. Other Quick Wins 🚑.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/2. Harvesting Passwords from Usual Spots 🎸.md",
@@ -184,15 +202,9 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Applications and services 💥.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Network Security Solutions 🧑🏻‍⚖️.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Host Security Solutions.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Users and Groups Management 👥.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Active Directory (AD) Environment 📀.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Network Infraestructure 🧠.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻",
     "notes/Red Teaming 🎈/Post Compromise 🤬",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/Using Browser Exploits 🕷.md",
     "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img"
   ]
 }
