@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a20070e69c2b8406",
+        "id": "8172704acc9938ec",
         "type": "tabs",
         "children": [
           {
-            "id": "ee49743cb39c9878",
+            "id": "1069ed3f464ebc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/5. Logon Triggered Persistence 🚇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb5e9d9bd409a121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md"
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md"
               }
             }
           }
@@ -159,24 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb5e9d9bd409a121",
+  "active": "1069ed3f464ebc1e",
   "lastOpenFiles": [
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/7. Persisting through existing services ☎️.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204175808.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204175747.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/6. Backdooring the Login Screen (RDP) 📡.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174748.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174733.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174703.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174642.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174625.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174555.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/5. Logon Triggered Persistence 🚇.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120310.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120212.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120127.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120050.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203115959.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203115037.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/3. Abusing Services 🚝.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/1. Tampering with Unprivileged Accounts 🥙.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/2. Backdooring Files 🏐.md",
     "README.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203110154.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203110136.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203110118.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203110026.png",
     "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Stego 🐅.md",
     "notes/Security through obscurity 🍭.md",
@@ -198,8 +188,6 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/Windows Enumeration 🧊.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/Linux Enumeration 🍳.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/Purpose 🌶.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/Introduction 🫐.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/Applications and services 💥.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img",
