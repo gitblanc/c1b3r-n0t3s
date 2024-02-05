@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md",
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md"
+                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md"
               }
             }
           }
@@ -148,21 +148,31 @@
   },
   "active": "1069ed3f464ebc1e",
   "lastOpenFiles": [
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/7. Persisting through existing services ☎️.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/1. Introduction 🚜.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/8. More tools and techniques 🎠.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/7. Port Forwarding 🚁.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110246.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110211.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110154.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110035.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105957.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105856.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105736.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105707.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/6. Abusing User Behaviour 🌠.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105543.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105506.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/4. Moving Laterally using WMI ⛽️.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/3. Spawning Processes Remotely 🚤.md",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/2. Moving Through the Network 🚢.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/8. Other persistence techniques 📟.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204175808.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204175747.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/7. Persisting through existing services ☎️.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/6. Backdooring the Login Screen (RDP) 📡.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174748.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174733.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174703.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174642.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174625.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240204174555.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/5. Logon Triggered Persistence 🚇.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120310.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img/Pasted image 20240203120212.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/3. Abusing Services 🚝.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/1. Tampering with Unprivileged Accounts 🥙.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/2. Backdooring Files 🏐.md",
@@ -178,21 +188,11 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/5. Abusing dangerous privileges 🎪.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/4. Windows Services 🎺.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/3. Other Quick Wins 🚑.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/2. Harvesting Passwords from Usual Spots 🎸.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/1. Windows Privilege Escalation 🤹.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/Conclusion 🧅.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/More Tools for Windows 🍌.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/DNS, SMB and SNMP 🍇.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/Windows Enumeration 🧊.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/Linux Enumeration 🍳.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/Purpose 🌶.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦",
     "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻",
-    "notes/Red Teaming 🎈/Post Compromise 🤬",
-    "notes/Red Teaming 🎈/Initial Access ✂️/Phishing 🐟/img"
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻"
   ]
 }
