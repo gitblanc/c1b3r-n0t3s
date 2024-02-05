@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
+                "file": "notes/WiFi Hacking 🌐.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
+                "file": "notes/WiFi Hacking 🌐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
+                "file": "notes/WiFi Hacking 🌐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md"
+                "file": "notes/WiFi Hacking 🌐.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "1069ed3f464ebc1e",
   "lastOpenFiles": [
+    "notes/img/Pasted image 20240205191431.png",
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
+    "notes/WiFi Hacking 🌐.md",
+    "notes/WiFi Hacking 🌐/WiFi Hacking 🌐.md",
+    "notes/WiFi Hacking 🌐",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/1. Introduction 🚜.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/8. More tools and techniques 🎠.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/7. Port Forwarding 🚁.md",
@@ -162,7 +167,6 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/6. Abusing User Behaviour 🌠.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105543.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105506.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/4. Moving Laterally using WMI ⛽️.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/3. Spawning Processes Remotely 🚤.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/2. Moving Through the Network 🚢.md",
@@ -185,14 +189,10 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/6. Abusing vulnerable software 🎭.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/5. Abusing dangerous privileges 🎪.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/4. Windows Services 🎺.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/3. Other Quick Wins 🚑.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻"
+    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img"
   ]
 }
