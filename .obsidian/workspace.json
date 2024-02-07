@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/WiFi Hacking 🌐.md",
+                "file": "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gobuster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/WiFi Hacking 🌐.md",
+                "file": "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/WiFi Hacking 🌐.md",
+                "file": "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/WiFi Hacking 🌐.md"
+                "file": "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "1069ed3f464ebc1e",
   "lastOpenFiles": [
+    "notes/SSH 🔓.md",
+    "notes/Introduction to Web Hacking 😀/Content Discovery 🔎.md",
+    "notes/WiFi Hacking 🌐.md",
     "notes/img/Pasted image 20240205191431.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
-    "notes/WiFi Hacking 🌐.md",
     "notes/WiFi Hacking 🌐/WiFi Hacking 🌐.md",
     "notes/WiFi Hacking 🌐",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/1. Introduction 🚜.md",
@@ -166,7 +168,6 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105707.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/6. Abusing User Behaviour 🌠.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105543.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105506.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/4. Moving Laterally using WMI ⛽️.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/3. Spawning Processes Remotely 🚤.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/2. Moving Through the Network 🚢.md",
@@ -188,7 +189,6 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/7. Tools for the trade 🏎.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/6. Abusing vulnerable software 🎭.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/img",
