@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
+                "file": "notes/Reverse shells 👾.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gobuster",
+                "query": "ftp connect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
+                "file": "notes/Reverse shells 👾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
+                "file": "notes/Reverse shells 👾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md"
+                "file": "notes/Reverse shells 👾.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "1069ed3f464ebc1e",
   "lastOpenFiles": [
+    "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
+    "notes/Reverse shells 👾.md",
     "notes/SSH 🔓.md",
     "notes/Introduction to Web Hacking 😀/Content Discovery 🔎.md",
     "notes/WiFi Hacking 🌐.md",
@@ -185,8 +187,6 @@
     "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Stego 🐅.md",
     "notes/Security through obscurity 🍭.md",
-    "notes/Spectrograms 🥠.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/7. Tools for the trade 🏎.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img",
