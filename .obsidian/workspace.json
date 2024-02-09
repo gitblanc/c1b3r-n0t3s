@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8172704acc9938ec",
+        "id": "54830584b206038b",
         "type": "tabs",
         "children": [
           {
-            "id": "1069ed3f464ebc1e",
+            "id": "173a57c9226e3e88",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ftp connect",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1069ed3f464ebc1e",
+  "active": "173a57c9226e3e88",
   "lastOpenFiles": [
-    "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
+    "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/Reverse shells 👾.md",
+    "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
     "notes/SSH 🔓.md",
     "notes/Introduction to Web Hacking 😀/Content Discovery 🔎.md",
     "notes/WiFi Hacking 🌐.md",
@@ -186,7 +187,6 @@
     "README.md",
     "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Stego 🐅.md",
-    "notes/Security through obscurity 🍭.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img",

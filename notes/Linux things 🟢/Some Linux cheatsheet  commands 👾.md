@@ -31,10 +31,6 @@ quote bob
 sudo ifconfig eth0 up
 sudo dhclient eth0
 ````
-- How to stabilise a shell:
-````
-python -c "import pty; pty.spawn('/bin/bash')" 
-````
 - SUID:
 	- Files with the SUID bit set when executed are run with the permissions of the owner of the file. So if there is an binary that is owned by root and it has the SUID bit set we could theoretically use this binary to elevate our permissions.
 
@@ -82,3 +78,18 @@ netstat -nlptn
 ````shell
 tac /home/file.txt
 ````
+- Get everything of a website to obtain flags:
+```shell
+wget -r -np -k http://IP_HOST 
+cd IP_HOST 
+grep -nri "THM"
+```
+- Locate any file with `find`:
+```shell
+sudo find / -type f -name root.txt 2>/dev/null
+# or
+sudo find / -type f -name root.txt 2>/dev/null
+#or
+sudo find /home -type f -name root.txt 2>/dev/null
+```
+
