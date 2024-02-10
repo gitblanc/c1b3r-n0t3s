@@ -7,4 +7,8 @@ Here are some of the most CTF common formats to encode flags with examples:
 - **ROT47**: `*@F DA:? >6 C:89E C@F?5 323J C:89E C@F?5 Wcf E:>6DX` -> `you spin me right round baby right round (47 times)`
 - **Morse**: `- . .-.. . -.-. --- -- -- ..- -. .. -.-. .- - .. --- -.. -. -.-. --- -.. .. -. --.` -> `TELECOMMUNICATION  ENCODING `
 - **Decimal**: `85 110 112 97 99 107 32 116 104 105 115 32 66 67 68` -> `Unpack this BCD`
+- **Vigenere Cipher**: [decoder1](https://www.dcode.fr/vigenere-cipher), [decoder2](https://cryptii.com/pipes/vigenere-cipher), [decoder3](https://www.guballa.de/vigenere-solver)
+
+
+
 
