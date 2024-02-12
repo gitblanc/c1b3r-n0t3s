@@ -148,12 +148,15 @@
   },
   "active": "173a57c9226e3e88",
   "lastOpenFiles": [
+    "notes/Protocols 🌧/SMB 🌸.md",
+    "notes/Protocols 🌧/img",
+    "notes/Protocols 🌧",
+    "notes/Reverse shells 👾.md",
     "notes/img/Pasted image 20240210151540.png",
     "notes/Tools 🛠/Sqlmap 🪲.md",
     "notes/XSS attacks 💀.md",
     "notes/img/Pasted image 20240210145953.png",
     "notes/Crack Password Hashes (Sites) 🤡.md",
-    "notes/Reverse shells 👾.md",
     "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
@@ -174,7 +177,6 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105957.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105856.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105736.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105707.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/6. Abusing User Behaviour 🌠.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/4. Moving Laterally using WMI ⛽️.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/3. Spawning Processes Remotely 🚤.md",
@@ -186,13 +188,10 @@
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/6. Backdooring the Login Screen (RDP) 📡.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/5. Logon Triggered Persistence 🚇.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/4. Abusing Scheduled Tasks 🚑.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/3. Abusing Services 🚝.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/img",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/The Lay of the land 👻/img"
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Enumeration 🥦/img"
   ]
 }
