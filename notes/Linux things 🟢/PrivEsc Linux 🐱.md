@@ -1,0 +1,2 @@
+- Use [linpeas](https://github.com/carlospolop/PEASS-ng/releases/tag/20240211-db8c669a)
+- Use [pSpy](https://github.com/DominicBreuker/pspy/releases)
