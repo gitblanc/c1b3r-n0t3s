@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "173a57c9226e3e88",
+            "id": "c26441233a3a7cf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Reverse shells 👾.md",
+                "file": "notes/Linux things 🟢/Find files in Linux 🍑.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Reverse shells 👾.md",
+                "file": "notes/Linux things 🟢/Find files in Linux 🍑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Reverse shells 👾.md",
+                "file": "notes/Linux things 🟢/Find files in Linux 🍑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Reverse shells 👾.md"
+                "file": "notes/Linux things 🟢/Find files in Linux 🍑.md"
               }
             }
           }
@@ -146,15 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "173a57c9226e3e88",
+  "active": "c26441233a3a7cf7",
   "lastOpenFiles": [
-    "notes/Tools 🛠/Sqlmap 🪲.md",
     "notes/Linux things 🟢/PrivEsc Linux 🐱.md",
-    "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
     "notes/Reverse shells 👾.md",
-    "notes/File uploading malware 🫨.md",
+    "notes/Exploits/sar2html RCE.md",
+    "notes/Exploits/img",
+    "notes/Exploits/img/Pasted image 20240215225128.png",
+    "notes/Translation and Shifting (Format encoding) 🥭.md",
+    "notes/Docker Hacking 🐳.md",
+    "notes/Web Enumeration 🐏.md",
     "notes/Exploits/WebMin 1.890 RCE.md",
+    "notes/img/Pasted image 20240215214817.png",
+    "notes/Linux things 🟢/Find files in Linux 🍑.md",
     "notes/LFI 🎃.md",
+    "notes/Redis database 🦈.md",
+    "notes/Tools 🛠/Sqlmap 🪲.md",
+    "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
+    "notes/File uploading malware 🫨.md",
     "notes/Exploits",
     "notes/img/Pasted image 20240213235821.png",
     "notes/Crack Password Hashes (Sites) 🤡.md",
@@ -165,7 +174,6 @@
     "notes/img/Pasted image 20240210151540.png",
     "notes/XSS attacks 💀.md",
     "notes/img/Pasted image 20240210145953.png",
-    "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
     "notes/SSH 🔓.md",
@@ -176,23 +184,14 @@
     "notes/WiFi Hacking 🌐/WiFi Hacking 🌐.md",
     "notes/WiFi Hacking 🌐",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/1. Introduction 🚜.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/8. More tools and techniques 🎠.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/7. Port Forwarding 🚁.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110246.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110211.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110154.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110035.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105957.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205105856.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/6. Abusing User Behaviour 🌠.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/4. Moving Laterally using WMI ⛽️.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/3. Spawning Processes Remotely 🚤.md",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/2. Moving Through the Network 🚢.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏"
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img"
   ]
 }

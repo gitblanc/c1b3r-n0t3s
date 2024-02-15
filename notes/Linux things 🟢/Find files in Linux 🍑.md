@@ -1,0 +1,1 @@
+- Use this command to find flags: `find / -type f -name "*flag*"`
