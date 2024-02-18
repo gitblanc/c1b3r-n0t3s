@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/SSH 🔓.md",
+                "file": "notes/Crack Password Hashes (Sites) 🤡.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/SSH 🔓.md",
+                "file": "notes/Crack Password Hashes (Sites) 🤡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/SSH 🔓.md",
+                "file": "notes/Crack Password Hashes (Sites) 🤡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/SSH 🔓.md"
+                "file": "notes/Crack Password Hashes (Sites) 🤡.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "c26441233a3a7cf7",
   "lastOpenFiles": [
+    "notes/Translation and Shifting (Format encoding) 🥭.md",
+    "notes/Strange privesc on Linux 🍄.md",
+    "notes/Tools 🛠/Hydra 🐍.md",
+    "notes/SSH 🔓.md",
     "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/Reverse shells 👾.md",
+    "notes/File Sharing 🌶️.md",
     "notes/Mysql 🫖.md",
-    "notes/Untitled.md",
     "notes/File uploading malware 🫨.md",
     "notes/Wordpress 🍔.md",
     "notes/Exploits/JuicyPotato (Windows PrivEsc).md",
@@ -163,7 +167,6 @@
     "notes/Exploits/sar2html RCE.md",
     "notes/Exploits/img",
     "notes/Exploits/img/Pasted image 20240215225128.png",
-    "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Docker Hacking 🐳.md",
     "notes/Web Enumeration 🐏.md",
     "notes/Exploits/WebMin 1.890 RCE.md",
@@ -180,10 +183,7 @@
     "notes/Protocols 🌧/img",
     "notes/Protocols 🌧",
     "notes/img/Pasted image 20240210151540.png",
-    "notes/XSS attacks 💀.md",
     "notes/img/Pasted image 20240210145953.png",
-    "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
-    "notes/SSH 🔓.md",
     "notes/img/Pasted image 20240205191431.png",
     "notes/WiFi Hacking 🌐",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110246.png",
