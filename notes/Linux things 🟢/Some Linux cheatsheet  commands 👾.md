@@ -92,4 +92,7 @@ sudo find / -type f -name root.txt 2>/dev/null
 #or
 sudo find /home -type f -name root.txt 2>/dev/null
 ```
-
+- Unzip a file on Linux using Python:
+```shell
+python3 -m zipfile -e CVE-2021-3156-main.zip .
+```

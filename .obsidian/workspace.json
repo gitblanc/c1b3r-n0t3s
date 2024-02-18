@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Linux things 🟢/Find files in Linux 🍑.md",
+                "file": "notes/SSH 🔓.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SMB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Linux things 🟢/Find files in Linux 🍑.md",
+                "file": "notes/SSH 🔓.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Linux things 🟢/Find files in Linux 🍑.md",
+                "file": "notes/SSH 🔓.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Linux things 🟢/Find files in Linux 🍑.md"
+                "file": "notes/SSH 🔓.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "c26441233a3a7cf7",
   "lastOpenFiles": [
-    "notes/Linux things 🟢/PrivEsc Linux 🐱.md",
+    "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/Reverse shells 👾.md",
+    "notes/Mysql 🫖.md",
+    "notes/Untitled.md",
+    "notes/File uploading malware 🫨.md",
+    "notes/Wordpress 🍔.md",
+    "notes/Exploits/JuicyPotato (Windows PrivEsc).md",
+    "notes/Exploits/PrintSpoofer (SeImpersonate Priviledge on Windows).md",
+    "notes/Exploits/img/Pasted image 20240216135658.png",
+    "notes/SMB 🐿.md",
+    "notes/Linux things 🟢/Find files in Linux 🍑.md",
+    "notes/Linux things 🟢/PrivEsc Linux 🐱.md",
     "notes/Exploits/sar2html RCE.md",
     "notes/Exploits/img",
     "notes/Exploits/img/Pasted image 20240215225128.png",
@@ -158,12 +168,10 @@
     "notes/Web Enumeration 🐏.md",
     "notes/Exploits/WebMin 1.890 RCE.md",
     "notes/img/Pasted image 20240215214817.png",
-    "notes/Linux things 🟢/Find files in Linux 🍑.md",
     "notes/LFI 🎃.md",
     "notes/Redis database 🦈.md",
     "notes/Tools 🛠/Sqlmap 🪲.md",
     "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
-    "notes/File uploading malware 🫨.md",
     "notes/Exploits",
     "notes/img/Pasted image 20240213235821.png",
     "notes/Crack Password Hashes (Sites) 🤡.md",
@@ -174,20 +182,13 @@
     "notes/img/Pasted image 20240210151540.png",
     "notes/XSS attacks 💀.md",
     "notes/img/Pasted image 20240210145953.png",
-    "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/Privilege Escalation 🧊/Linux Privilege Escalation 🦆.md",
     "notes/SSH 🔓.md",
-    "notes/Introduction to Web Hacking 😀/Content Discovery 🔎.md",
-    "notes/WiFi Hacking 🌐.md",
     "notes/img/Pasted image 20240205191431.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/5. Use of Alternate Authentication Material 🗼.md",
-    "notes/WiFi Hacking 🌐/WiFi Hacking 🌐.md",
     "notes/WiFi Hacking 🌐",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/1. Introduction 🚜.md",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110246.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110211.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110154.png",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110035.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
