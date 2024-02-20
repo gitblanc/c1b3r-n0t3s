@@ -96,3 +96,8 @@ sudo find /home -type f -name root.txt 2>/dev/null
 ```shell
 python3 -m zipfile -e CVE-2021-3156-main.zip .
 ```
+- Transfer a file from remote host to yours using **scp**:
+```shell
+scp -i id_rsa USER@IP_HOST:/PATH/TO/THE/FILE /DESTINATION/PATH
+```
+

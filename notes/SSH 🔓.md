@@ -34,7 +34,7 @@ ylqilOgj4+yiS813kNTjCJOwKRsXg2jKbnRa8b7dSRz7aDZVLpJnEy9bhn6a7WtS
 -----END RSA PRIVATE KEY-----
 ````
 
-- Crack it like this:
+- Crack its passphrase like this:
 
 ```shell
 # First save it to a file
@@ -52,3 +52,19 @@ john id_rsa.hash -wordlist=rockyou.txt
 - To connect to shh using a ssh key: 
 	- `chmod 600 id_rsa`
 	- `ssh -i id_rsa username@host_ip`
+- If you got this error: `sign_and_send_pubkey: no mutual signature supported`
+	- Paste this on `~/.ssh/config`:
+
+```bash
+Host *
+    PubkeyAcceptedKeyTypes=+ssh-rsa
+    HostKeyAlgorithms=+ssh-rsa
+```
+
+## Decrypt RSA keys
+
+- [RSA Calculator](https://www.cs.drexel.edu/~popyack/Courses/CSP/Fa17/notes/10.1_Cryptography/RSA_Express_EncryptDecrypt_v2.html)
+
+![](./img/Pasted%20image%2020240220233429.png)
+
+![](./img/Pasted%20image%2020240220233613.png)
