@@ -16,4 +16,4 @@ stegseek -sf image.png /path/to/wordlist
 file whatever.file # to know what is it
 ```
 
-
+- Use command `steghide info image.png`

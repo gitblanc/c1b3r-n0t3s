@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54830584b206038b",
+        "id": "f7d899cacbe224ca",
         "type": "tabs",
         "children": [
           {
-            "id": "c26441233a3a7cf7",
+            "id": "59c963e6060e8e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Reverse shells 👾.md",
+                "file": "notes/Translation and Shifting (Format encoding) 🥭.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Reverse shells 👾.md",
+                "file": "notes/Translation and Shifting (Format encoding) 🥭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Reverse shells 👾.md",
+                "file": "notes/Translation and Shifting (Format encoding) 🥭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Reverse shells 👾.md"
+                "file": "notes/Translation and Shifting (Format encoding) 🥭.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c26441233a3a7cf7",
+  "active": "59c963e6060e8e47",
   "lastOpenFiles": [
-    "notes/Kernel exploitation 🍀.md",
+    "notes/Stego 🐅.md",
+    "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Reverse shells 👾.md",
+    "notes/Kernel exploitation 🍀.md",
     "notes/Exploits/CVE-2014-6271.md",
     "notes/Tools 🛠/Nikto 🐱.md",
     "notes/SSH 🔓.md",
-    "notes/Stego 🐅.md",
     "notes/Subdomain enumeration 🌞.md",
     "notes/LFI 🎃.md",
     "notes/Mysql 🫖.md",
@@ -168,7 +169,6 @@
     "notes/Tools 🛠/Hydra 🐍.md",
     "notes/Brute force 🏴‍☠️.md",
     "notes/Crack Password Hashes (Sites) 🤡.md",
-    "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Strange privesc on Linux 🍄.md",
     "notes/File uploading malware 🫨.md",
     "notes/Wordpress 🍔.md",
