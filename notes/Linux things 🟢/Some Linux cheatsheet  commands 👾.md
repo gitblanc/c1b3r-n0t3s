@@ -100,4 +100,8 @@ python3 -m zipfile -e CVE-2021-3156-main.zip .
 ```shell
 scp -i id_rsa USER@IP_HOST:/PATH/TO/THE/FILE /DESTINATION/PATH
 ```
+- If the linux machine doesn't have `wget`, we can try:
+```shell
+curl "url_to_the_file" -o output.file
+```
 
