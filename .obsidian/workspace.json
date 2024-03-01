@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Linux things 🟢/Linux `.services` 😜.md",
+                "file": "notes/Tools 🛠/Sqlmap 🪲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "749869ca91acdc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Reverse shells 👾.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Linux things 🟢/Linux `.services` 😜.md",
+                "file": "notes/Reverse shells 👾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Linux things 🟢/Linux `.services` 😜.md",
+                "file": "notes/Reverse shells 👾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Linux things 🟢/Linux `.services` 😜.md"
+                "file": "notes/Reverse shells 👾.md"
               }
             }
           }
@@ -146,12 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59c963e6060e8e47",
+  "active": "749869ca91acdc3a",
   "lastOpenFiles": [
-    "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
-    "notes/Linux things 🟢/Linux `.services` 😜.md",
     "notes/Mysql 🫖.md",
+    "notes/Linux things 🟢/Find files in Linux 🍑.md",
     "notes/Reverse shells 👾.md",
+    "notes/Tools 🛠/Sqlmap 🪲.md",
+    "notes/Linux things 🟢/Linux file permissions 🐵.md",
+    "notes/Linux things 🟢/img",
+    "notes/Linux things 🟢/img/Pasted image 20240301141710.png",
+    "notes/Linux things 🟢/Linux `.services` 😜.md",
+    "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/Exploits/Restaurant Management System.md",
     "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Stego 🐅.md",
@@ -163,7 +181,6 @@
     "notes/LFI 🎃.md",
     "notes/Tools 🛠/Gobuster 🐦.md",
     "notes/Tools 🛠/Dirb 📢.md",
-    "notes/Tools 🛠/Sqlmap 🪲.md",
     "notes/img/Pasted image 20240220233613.png",
     "notes/img/Pasted image 20240220233429.png",
     "notes/File Sharing 🌶️.md",
@@ -174,8 +191,6 @@
     "notes/Strange privesc on Linux 🍄.md",
     "notes/File uploading malware 🫨.md",
     "notes/Wordpress 🍔.md",
-    "notes/Exploits/JuicyPotato (Windows PrivEsc).md",
-    "notes/Exploits/PrintSpoofer (SeImpersonate Priviledge on Windows).md",
     "notes/Exploits/img/Pasted image 20240216135658.png",
     "notes/Exploits/img",
     "notes/Exploits/img/Pasted image 20240215225128.png",
@@ -188,11 +203,9 @@
     "notes/img/Pasted image 20240210145953.png",
     "notes/img/Pasted image 20240205191431.png",
     "notes/WiFi Hacking 🌐",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img/Pasted image 20240205110246.png",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮/img",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮",
-    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Privilege Escalation 🥏/img"
+    "notes/Red Teaming 🎈/Post Compromise 🤬/Windows Local Persistence 🍮"
   ]
 }

