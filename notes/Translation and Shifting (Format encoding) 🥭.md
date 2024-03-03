@@ -9,7 +9,3 @@ Here are some of the most CTF common formats to encode flags with examples:
 - **Decimal**: `85 110 112 97 99 107 32 116 104 105 115 32 66 67 68` -> `Unpack this BCD`
 - **Vigenere Cipher**: [decoder1](https://www.dcode.fr/vigenere-cipher), [decoder2](https://cryptii.com/pipes/vigenere-cipher), [decoder3](https://www.guballa.de/vigenere-solver)
 - **More Cipher** (rare Caesar): [quipqiup](https://quipqiup.com/) (Like `Lwuv oguukpi ctqwpf.`)
-
-
-
-
