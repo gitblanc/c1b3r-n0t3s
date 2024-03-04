@@ -44,7 +44,7 @@ vim id_rsa
 ssh2john id_rsa > id_rsa.hash
 
 # Crack it with a wordlist
-john id_rsa.hash -wordlist=rockyou.txt
+john id_rsa.hash --wordlist=/usr/share/wordlists/rockyou.txt
 ```
 
 ## Connect to ssh using a ssh key

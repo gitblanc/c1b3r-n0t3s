@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Crack Password Hashes (Sites) 🤡.md",
+                "file": "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Crack Password Hashes (Sites) 🤡.md",
+                "file": "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Crack Password Hashes (Sites) 🤡.md",
+                "file": "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Crack Password Hashes (Sites) 🤡.md"
+                "file": "notes/Tools 🛠/John The Ripper 🐈‍⬛.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "6a29c7c431eb510e",
   "lastOpenFiles": [
-    "notes/Useful scripts 🌊.md",
     "notes/Crack Password Hashes (Sites) 🤡.md",
+    "notes/SSH 🔓.md",
+    "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
+    "notes/Tools 🛠/OWASP ZAP.md",
+    "notes/Tools 🛠/Hydra 🐍.md",
+    "notes/Useful scripts 🌊.md",
     "notes/Translation and Shifting (Format encoding) 🥭.md",
     "notes/Tools webpages.md",
     "notes/Linux things 🟢/Find files in Linux 🍑.md",
@@ -166,7 +170,6 @@
     "notes/Kernel exploitation 🍀.md",
     "notes/Exploits/CVE-2014-6271.md",
     "notes/Tools 🛠/Nikto 🐱.md",
-    "notes/SSH 🔓.md",
     "notes/Subdomain enumeration 🌞.md",
     "notes/LFI 🎃.md",
     "notes/Tools 🛠/Gobuster 🐦.md",
@@ -174,10 +177,7 @@
     "notes/img/Pasted image 20240220233613.png",
     "notes/img/Pasted image 20240220233429.png",
     "notes/File Sharing 🌶️.md",
-    "notes/Tools 🛠/Hydra 🐍.md",
     "notes/Brute force 🏴‍☠️.md",
-    "notes/Strange privesc on Linux 🍄.md",
-    "notes/File uploading malware 🫨.md",
     "notes/Exploits/img/Pasted image 20240216135658.png",
     "notes/Exploits/img",
     "notes/Exploits/img/Pasted image 20240215225128.png",
