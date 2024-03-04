@@ -1,4 +1,4 @@
-- Combining passwords for brute force:
+# Combining passwords for brute force:
 
 ```bash
 #!/bin/bash
@@ -24,15 +24,13 @@ done < "$WORDLIST" > "$FINAL_WORDLIST"
 echo "New wordlist has been created: $FINAL_WORDLIST"
 ```
 
----
-
-- Convert a wordlist to its md5 equivalent (all passwords to md5):
+# Convert a wordlist to its md5 equivalent (all passwords to md5):
 
 ```shell
 while read -r password; do echo -n "$password" | openssl md5 | awk '{print $2}'; done < wordlist.txt > hashes_md5.txt
 ```
 
-- More efficient one:
+## More efficient one:
 
 ```python
 import hashlib
@@ -59,4 +57,35 @@ if __name__ == "__main__":
         input_file = sys.argv[1]
         output_file = sys.argv[2]
         generate_md5_hash(input_file, output_file)
+```
+
+# Duplicate to x times each word of a wordlist
+
+```python
+import sys
+
+def repeat_words(wordlist_path, max_repeats, output_path):
+    try:
+        with open(wordlist_path, 'r') as file:
+            words = file.readlines()
+    except FileNotFoundError:
+        print(f"File not found: {wordlist_path}")
+        sys.exit(1)
+
+    with open(output_path, 'w') as outfile:
+        for word in words:
+            word = word.strip()  # Remove any trailing whitespace or newline characters
+            for i in range(1, max_repeats + 1):
+                outfile.write(word * i + '\n')
+
+if __name__ == "__main__":
+    if len(sys.argv) != 4:
+        print("Usage: python3 script.py /path/to/wordlist MAX_REPEATS output_wordlist")
+        sys.exit(1)
+
+    wordlist_path = sys.argv[1]
+    max_repeats = int(sys.argv[2])
+    output_path = sys.argv[3]
+
+    repeat_words(wordlist_path, max_repeats, output_path)
 ```
