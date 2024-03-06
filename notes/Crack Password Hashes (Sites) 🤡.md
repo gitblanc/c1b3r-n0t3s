@@ -13,10 +13,16 @@ hashcat -m 160 'e5d8870e5bdd26602cab8dbe07a942c8669e56d6:tryhackme' /usr/share/w
 	- Also identify the kind of hash with: [haiti](https://github.com/noraj/haiti) or run:
 	```shell
 	git clone https://github.com/noraj/haiti.git 
-	gem install fpm 
+	sudo gem install fpm 
 	cd haiti/packages/debian/ruby-docopt 
-	fpm -s gem docopt $ cd ../haiti 
+	fpm -s gem docopt 
+	cd ../haiti 
 	fpm -s gem haiti-hash
+	cd ..
+	sudo dpkg -i ruby-docopt/ruby-docopt_0.6.1_all_debian11.deb
+	sudo dpkg -i haiti/haiti_2.1.0_all_debian11.deb
+	cd ../../
+	rm -rf haiti
 	```
 	- [haiti usage](https://noraj.github.io/haiti/#/pages/usage)
 	- Basic command: `haiti b16f211a8ad7f97778e5006c7cecdf31`
@@ -109,6 +115,8 @@ $[0-9]$[0-9]
 
 - Use the tool [lyricpass](https://github.com/initstring/lyricpass) to download the lyrics of all the songs made by a group or musician.
 	- Example: `lyricpass.py -a "Adele"`
+
+- For stego challenges, if you do not find anything with common methods (like cracking with john or hashcat) try this web: [md5hashing.net](https://md5hashing.net/hash)
 
 ## Rooms
 

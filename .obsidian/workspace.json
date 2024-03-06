@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "9deb154a6ff0c4c0",
+        "id": "c99d284e54e63859",
         "type": "tabs",
         "children": [
           {
-            "id": "6a29c7c431eb510e",
+            "id": "3a07f43a0a67abf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
+                "file": "notes/Stego 🐅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eefdf716ca6ec6a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Crack Password Hashes (Sites) 🤡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67d54bec88a6c43b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Translation and Shifting (Format encoding) 🥭.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
+                "file": "notes/Stego 🐅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
+                "file": "notes/Stego 🐅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Tools 🛠/John The Ripper 🐈‍⬛.md"
+                "file": "notes/Stego 🐅.md"
               }
             }
           }
@@ -146,38 +170,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a29c7c431eb510e",
+  "active": "3a07f43a0a67abf5",
   "lastOpenFiles": [
     "notes/Crack Password Hashes (Sites) 🤡.md",
-    "notes/SSH 🔓.md",
-    "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
-    "notes/Tools 🛠/OWASP ZAP.md",
-    "notes/Tools 🛠/Hydra 🐍.md",
-    "notes/Useful scripts 🌊.md",
     "notes/Translation and Shifting (Format encoding) 🥭.md",
-    "notes/Tools webpages.md",
+    "notes/Stego 🐅.md",
+    "notes/Docker Hacking 🐳.md",
+    "notes/img/Pasted image 20240306215637.png",
+    "notes/img/Pasted image 20240306215008.png",
+    "notes/Spectrograms 🥠.md",
+    "notes/Tools 🛠/Hydra 🐍.md",
+    "notes/Tools 🛠/OWASP ZAP 🦈.md",
+    "notes/Linux things 🟢/Linux file permissions 🐵.md",
     "notes/Linux things 🟢/Find files in Linux 🍑.md",
+    "notes/Linux things 🟢/Linux `.services` 😜.md",
+    "notes/Linux things 🟢/Understand passwd file in Linux 🧠.md",
+    "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
+    "notes/Useful scripts 🌊.md",
+    "notes/Tools webpages 🐚.md",
+    "notes/HTTP status codes complete list 💨.md",
+    "notes/Tools 🛠/John The Ripper 🐈‍⬛.md",
+    "notes/SSH 🔓.md",
     "notes/Reverse shells 👾.md",
     "notes/Mysql 🫖.md",
     "notes/Tools 🛠/Sqlmap 🪲.md",
-    "notes/Linux things 🟢/Linux file permissions 🐵.md",
     "notes/Linux things 🟢/img",
     "notes/Linux things 🟢/img/Pasted image 20240301141710.png",
-    "notes/Linux things 🟢/Linux `.services` 😜.md",
-    "notes/Linux things 🟢/Some Linux cheatsheet  commands 👾.md",
     "notes/Exploits/Restaurant Management System.md",
-    "notes/Stego 🐅.md",
     "notes/Kernel exploitation 🍀.md",
     "notes/Exploits/CVE-2014-6271.md",
     "notes/Tools 🛠/Nikto 🐱.md",
     "notes/Subdomain enumeration 🌞.md",
     "notes/LFI 🎃.md",
-    "notes/Tools 🛠/Gobuster 🐦.md",
-    "notes/Tools 🛠/Dirb 📢.md",
     "notes/img/Pasted image 20240220233613.png",
     "notes/img/Pasted image 20240220233429.png",
-    "notes/File Sharing 🌶️.md",
-    "notes/Brute force 🏴‍☠️.md",
     "notes/Exploits/img/Pasted image 20240216135658.png",
     "notes/Exploits/img",
     "notes/Exploits/img/Pasted image 20240215225128.png",
@@ -187,8 +213,6 @@
     "notes/Protocols 🌧/img",
     "notes/Protocols 🌧",
     "notes/img/Pasted image 20240210151540.png",
-    "notes/img/Pasted image 20240210145953.png",
-    "notes/img/Pasted image 20240205191431.png",
     "notes/WiFi Hacking 🌐",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓/img",
     "notes/Red Teaming 🎈/Post Compromise 🤬/Lateral Movement and Pivoting 🪓",
