@@ -31,3 +31,33 @@ file whatever.file # to know what is it
 	- Also there is this other project  (manteined) [outguess](https://github.com/resurrecting-open-source-projects/outguess)
 	- Then, install it with: `./configure && make`
 	- Then, try the command: `./outguess -r /file/to/analyze /path/to/the/output`
+
+- If you find a corrupted image (checking the file header of the image which should be `\x89x50\x4Ex47`), the try this command:
+
+```shell
+printf '\x89\x50\x4E\x47' | dd of=IMAGE.png bs=4 conv=notrunc
+```
+
+- If you have two strings in different formats, try this python script:
+
+```python
+s1 = "44585d6b2368737c65252166234f20626d"
+s2 = "1010101010101010101010101010101010"
+h = hex(int(s1, 16) ^ int(s2, 16))[2:]
+print(bytes.fromhex(h).decode('utf-8'))
+```
+
+- You also have the tool [stegsolve](https://wiki.bi0s.in/steganography/stegsolve/)
+	- Install with:
+
+```shell
+wget http://www.caesum.com/handbook/Stegsolve.jar -O stegsolve.jar
+chmod +x stegsolve.jar
+mkdir bin
+mv stegsolve.jar bin/
+```
+
+- Use it with: `java -jar stegsolve.jar`
+- You might also need to search for a web in [WaybackMachine](https://archive.org/web/)
+
+- Open `.pcap` files with wireshark and analyze them
